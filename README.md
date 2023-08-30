@@ -12,7 +12,7 @@ A telecom company wants to find out the likelihood of a customer leaving the com
 In this project, we aim to find the likelihood of a customer leaving the organization, the key indicators of churn as well as the retention strategies that can be implemented to avert this problem.
 The data for this project is in a csv format. The following describes the columns present in the data.
 
-- **Gender**-- Whether the customer is a male or a female
+- **Gender**-- Whether the customer is a male or a female 
 
 - **SeniorCitizen** -- Whether a customer is a senior citizen or not
 
