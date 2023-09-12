@@ -79,25 +79,9 @@ The data for this project is in a csv format. The following describes the column
 -   Wrote a medium article and briefly described the process, findings and recommendations
 
 ## Instruction:
-Your task is to understand the data and prepare it for model building. Your analysis or methods should incorporate the following steps.
 
-1. Hypothesis formation and Data Processing - Importing the relevant libraries and modules, Cleaning of Data, Check data types, Encoding Data labels etc.
 
-2. Data Evaluation -- Perform bivariate and multivariate analysis, EDA
 
-3. See attached some useful resources [ Exploratory Data Analysis: Univariate, Bivariate, and Multivariate Analysis , Univariate, Bivariate and Multivariate Analysis , Exploratory Data Analysis (EDA) Using Python]
-
-4. Build & Select Model -- Train Model on dataset and select the best performing model.
-
-5. Evaluate your chosen Model.
-
-6. Model Improvement.
-
-7. Future Predictions.
-
-8. Key Insights and Conclusion.
-
-Upon completion of your project, you are required to write a blog post on your thought process on medium, LinkedIn, personal blog, or any other suitable blogging site.
 
 ## Author
 Bambo Traore 
