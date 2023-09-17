@@ -6,7 +6,7 @@ A telecom company wants to find out the likelihood of a customer leaving the com
 ## Summary
 | Code      | Name        | Published Article |  PowerBi Dashboard |
 |-----------|-------------|:-------------:|------:|
-| LP2       | ML-Classification-Customer-Churn-Prediction  |  [Medium AT](https://medium.com/@bambadij/machine-learning-classification-customer-churn-prediction-31c483725079) | [https://app.powerbi.com/view?r=eyJrIjoiYzkyMzE5Y2ItNTdmZi00NTQ0LThjMDEtOGIyOWY5ZDliZDg1IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9](/) |
+| LP2       | ML-Classification-Customer-Churn-Prediction  |  [Medium AT](https://medium.com/@bambadij/machine-learning-classification-customer-churn-prediction-31c483725079) | [POWER BI](https://app.powerbi.com/view?r=eyJrIjoiYzkyMzE5Y2ItNTdmZi00NTQ0LThjMDEtOGIyOWY5ZDliZDg1IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |
 
 ## Project Description
 In this project, we aim to find the likelihood of a customer leaving the organization, the key indicators of churn as well as the retention strategies that can be implemented to avert this problem.
